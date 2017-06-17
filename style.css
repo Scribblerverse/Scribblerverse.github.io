@@ -1,0 +1,23 @@
+body {
+	font-family: helvetica;
+	background-image: url("http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+	background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+table, th, td {
+    border: 1px solid black;
+    width: 100px;
+    padding: 15px;
+}
+h1 {
+	text-align: center;
+	color: #F06969;
+}
+#image1 {
+	width:500px;
+}
+
+#image2 {
+	width:200px;
+}
